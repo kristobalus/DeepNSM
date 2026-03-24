@@ -5,7 +5,7 @@ The models used in the paper are uploaded on HuggingFace:
 
 https://huggingface.co/baartmar/DeepNSM-1B
 https://huggingface.co/baartmar/DeepNSM-8B
-https://huggingface.co/baartmar/nsm_dataset
+https://huggingface.co/datasets/baartmar/nsm_dataset
 
 For more details, please see our preprint on arxiv:
 ```
